@@ -38,7 +38,7 @@ Flask
 Boostrap
 
 ## contact
-Emails:akimanizanyeclaudine@gmail.com Phone:098766544 Emails:akimanizanyeclaudine@akilahinstitute.org Repositority:https://github.com/AKIMANIZANYE/blog.git
+Emails:akimanizanyeclaudine@gmail.com Phone:098766544,0789616355 Emails:akimanizanyeclaudine@akilahinstitute.org Repositority:https://github.com/AKIMANIZANYE/blog.git
 # #License and Copyright
 
 .Permision of reading code         .You are not allowed to edit any file.
