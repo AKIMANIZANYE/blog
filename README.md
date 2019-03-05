@@ -16,7 +16,7 @@ source virtual/bin/activate.
 curl https://bootstrap.pypa.io/get-pip.py | python.
 
 pip install flask.
-
+pip install flask-mail
 $ ./start.sh
 curl https://bootstrap.pypa.io/get-pip.py | python.
 
