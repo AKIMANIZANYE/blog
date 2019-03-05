@@ -25,7 +25,7 @@ pip install flask.
 run python 3.6manage.py shell in database
 
 ## Instrcuction
-On the homepage user will see form that will have option of reseaching the name of the news and some description of the news and also some there will be a buttom  to cleck for the more detals about the new after clicking there  users will the differences news according to the type of news.user can be able to views and make some views on the news.
+On the homepage user will see form that will have option of sending an email  by intering email and password and some description of the news and also some there will be a buttom  to cleck for the more detals about the new after clicking there  users will the differences news according to the type of news.user can be able to views and make some views on the news.
 ## Test Driven Development -TDD
 inter the name of news   submit Read the name of the  News views the  news  you  can see the Image there articles the  date has been wrotten that news.
 
