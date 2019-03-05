@@ -1,4 +1,4 @@
-{% extends 'base.html'%}
+ {% extends 'base.html'%}
 {% import 'macros.html' as macro%}
 {% import "bootstrap/wtf.html" as wtf%}
 {% block content%}
@@ -7,7 +7,7 @@
 
     <h4>{{blog.content}}</h4>
     <p class="name">Author:Angela Uwase</p>
-    <a href="/new/comment/{{blog.id}}" class="btn btn-primary">Add comment</a>
+    <a href="/new/comment/{{blog.id}}" class="btn btn-primary">create a comment</a>
       {{macro.displayComments(comments)}}
 {%endblock%}
   </div>
