@@ -42,6 +42,7 @@ Emails:akimanizanyeclaudine@gmail.com Phone:098766544,0789616355 Emails:akimaniz
 # #License and Copyright
 
 .Permision of reading code         .You are not allowed to edit any file or folder.
+.Permission of delete blog
 .permission of testing website      .You are  not allowed to move  anyfile or folder
 .Permision of Riview 
 .persimision of commenting       
