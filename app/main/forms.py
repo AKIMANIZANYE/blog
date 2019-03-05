@@ -24,7 +24,7 @@ class SubscriptionForm(FlaskForm):
    submit = SubmitField('Submit')
    def validate_email(self,data_field):
             if Subscription.query.filter_by(email =data_field.data).first():
-                raise ValidationError('There is an account with that email')
+                raise ValidationError('we already have an account here')
 
 class UpdateBlogForm(FlaskForm):
    title=StringField('Title',validators = [Required()])
