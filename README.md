@@ -1,8 +1,7 @@
 ## project name
  Blog
 ## Author: 
-Claudine Akimanizanye <akimanizanye.claudine@gmail.com> and https://github.com/AKIMANIZANYE/Picthing.git
-Date:  Saturday March 2  11:20:53 2019 +0200
+Claudine Akimanizanye akimanizanye.claudine@gmail.com and https://github.com/AKIMANIZANYE/Picthing.git Date: Saturday March 2 11:20:53 2019 +0200
 
 ## Descrption of the project
 Blog is project that will contain the  the differences blogs  and the users will be able to views differences types of the news that will be accouring in my  website it will date  that news has published and also it will also has the name 
