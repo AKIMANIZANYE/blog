@@ -1,5 +1,4 @@
 ## project name
- Blog
 ## Author: 
 Claudine Akimanizanye <akimanizanye.claudine@gmail.com> and https://github.com/AKIMANIZANYE/Picthing.git
 Date:  Saturday March 2  11:20:53 2019 +0200
