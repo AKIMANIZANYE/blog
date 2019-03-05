@@ -27,7 +27,7 @@ run python 3.6manage.py shell in database
 ## Instrcuction
 On the homepage user will see form that will have option of sending an email  by intering email and password and  your will have the option of  posting blog  and also some there will be a buttom  to  they will have to create an account  and also login in in case they have  an account thre will the differences news according to the type of news.user can be able to views and make some views on the news.
 ## Test Driven Development -TDD
-inter the name of news   submit Read the name of the  News views the  news  you  can see the Image there articles the  date has been wrotten that news.
+inter the   your email and paasword   submit Read the name of the  News views the  news  you  can see the Image there articles the  date has been wrotten that news.
 
 ## Technologu Used
 
