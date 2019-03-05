@@ -7,18 +7,17 @@ Claudine Akimanizanye akimanizanye.claudine@gmail.com and https://github.com/AKI
 Blog is project that will contain the  the differences blogs  and the users will be able to views differences types of the news that will be accouring in my  website it will date  that news has published and also it will also has the name 
 of that blogs.
 ## installation steps
-git remote add origin https://github.com/AKIMANIZANYE/blog.git
-$ git clone 
-$ cd blog
-$ source virtual/bin/activate
-Inside the manage.py module change the config_name 
-Prerequisite
-These are some of the setups we need to install before we install the flask:
+$ git clone $ cd blog $ source virtual/bin/activate Inside the manage.py module change the config_name Prerequisite These are some of the setups we need to install before we install the flask:
 
 python3.6 -m venv --without-pip virtual.
 
 source virtual/bin/activate.
 
+curl https://bootstrap.pypa.io/get-pip.py | python.
+
+pip install flask.
+
+$ ./start.sh
 curl https://bootstrap.pypa.io/get-pip.py | python.
 
 pip install flask.
