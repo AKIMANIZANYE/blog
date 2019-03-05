@@ -22,7 +22,7 @@ curl https://bootstrap.pypa.io/get-pip.py | python.
 
 pip install flask.
 
-
+run python 3.6manage.py shell in database
 
 ## Instrcuction
 On the homepage user will see form that will have option of reseaching the name of the news and some description of the news and also some there will be a buttom  to cleck for the more detals about the new after clicking there  users will the differences news according to the type of news.user can be able to views and make some views on the news.
