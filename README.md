@@ -8,6 +8,7 @@ Date:  Saturday March 2  11:20:53 2019 +0200
 Blog is project that will contain the  the differences blogs  and the users will be able to views differences types of the news that will be accouring in my  website it will date  that news has published and also it will also has the name 
 of that blogs.
 ## installation steps
+git remote add origin https://github.com/AKIMANIZANYE/blog.git
 $ git clone 
 $ cd blog
 $ source virtual/bin/activate
